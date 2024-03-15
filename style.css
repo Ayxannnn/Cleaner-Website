@@ -1,3 +1,8 @@
+body{
+    background-image: url(blue-sky-city-skyline-could-and-building-background-ai-generated-photo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 #h1{
     color: white;
     text-align: center;
